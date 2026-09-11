@@ -135,6 +135,9 @@ Features projected to make car prices less expensive:
 - `Type`: cars with types "sedan", "hatchback" and "SUV" translate to at least $2k price decrease
 - `Drive`: cars with "fwd" or front-wheel-drive translate to $3,357 price decrease
 
+Features that may not be good predictors of used car prices:
+- Region, mdoel, title status, VIN, size, paint color and state
+
 ## Actionable Items - Recommendations to Client
 
 As the data modeling shows consumers value Lexus and Toyota manufacturers more, we recommend car dealerships to stock up more cars from these two manufacturers for better sales. Diesel cars also fall into this category - they are selling at significantly higher prices. Dealerships should also try to showcase used car inventory of these two brands and diesel cars at visible areas of their showroom or car lot, to attract potential car buyers. Dealerships should do the same for used cars with more cylinders e.g., 6 or 8, because these used cars are selling at higher prices.
